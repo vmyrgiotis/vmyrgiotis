@@ -63,11 +63,13 @@ Soil is a part of any terrestrial ecosystems that plays key role for the health 
 
 <details>
 
-<summary> Earth Observation  </summary>
+<summary> Earth Observation </summary>
 
 ### Earth Observation 
 
-# <img src="soilc.png" height="500px" width="600px">
+<!-- 
+<img src="soilc.png" height="500px" width="600px"> 
+--> 
 
 Stuff to be added.. 
 
