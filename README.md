@@ -37,6 +37,9 @@ DALEC-Grass is a simple process-based model that simulates carbon (C) dynamics i
 
 <img src="mdf_dg.png" height="400px" width="700px">
 
+Data fusion is the process of integrating multiple data sources to produce more consistent, accurate, and useful information than that provided by any individual data source. in the case of Model-Data Fusion (MDF) one data stream contains model produced outputs while other data streams contain observations of system drivers and system behaviour. In the context of ecosystem science MDF refers to the use of earth observation and on/near ground measured data on ecosystem functioning e.g. plant physiology, soil moisture/temperature, greenhouse gas fluxes etc. 
+
+
 ### Soil Carbon Modelling 
 
 
