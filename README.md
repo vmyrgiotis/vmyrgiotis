@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 Hi there! I am a research scientist at the [UK Centre for Ecology and Hydrology](https://www.ceh.ac.uk). I have more than 12 years of experience in the development of data-driven computer models that describe biogeochemical processes in terrestrial/agricultural ecosystems. You can find my CV [here](cv.md).
 
-Research interests : 
+My main research interests are :
 * Agro-ecosystems
 * Soil science and ecosystem biogeochemistry
 * Computational data science
