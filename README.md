@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ## About Me
 
-I am research scientist at the [UK Centre for Ecology and Hydrology]([https://github.com/simulated-user/text-analysis-tool](https://www.ceh.ac.uk)). I study how terrestrial/agricultural ecosystems function, focusing at scales from local to national, to provide actionable information. I have more than 12 years of experience in earth observation and the development of data-driven computer models that describe biogeochemical processes in ecosystems. 
+I am a research scientist at the [UK Centre for Ecology and Hydrology]([https://github.com/simulated-user/text-analysis-tool](https://www.ceh.ac.uk)).I have more than 12 years of experience in the development of data-driven computer models that describe biogeochemical processes in terrestrial/agricultural ecosystems. 
 
 Main interests : 
 * Agro-ecosystems
@@ -28,7 +28,6 @@ Main interests :
 
 
 ## Portfolio
-
 
 **Project 1: Text Summarization and Analysis Tool**
 
