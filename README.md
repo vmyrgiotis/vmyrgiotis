@@ -57,7 +57,7 @@ Data fusion is the process of integrating multiple data sources to produce more 
 
 <img src="soilc.png" height="500px" width="600px">
 
-Soil plays key role for the health and functioning of terrestrial ecosystem. It is also a critical carbon pool whose size exceeds the carbon stored in the atmosphere and vegetation combined. Soil carbon models are tools used to simulate and predict the dynamics of carbon in soil.  Many soil carbon models exist. Some are standalone models o and some are modules of ecosystem scale models. This [repository](https://github.com/vmyrgiotis/soilCmodelling) includes python code and notebooks for implementing some widely-used soil carbon models available. 
+Soil plays key role for the health and functioning of terrestrial ecosystem. It is also a critical carbon pool whose size exceeds the carbon stored in the atmosphere and vegetation combined. Soil carbon models are tools used to simulate and predict the dynamics of carbon in soil. Some soil carbon models are standalone models and others are modules of ecosystem scale models. This [repository](https://github.com/vmyrgiotis/soilCmodelling) includes python code and notebooks for implementing some widely-used soil carbon models available. 
 
 </details>
 
