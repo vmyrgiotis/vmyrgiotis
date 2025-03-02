@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ## About
 
-Hi there! I am a research scientist at the [UK Centre for Ecology and Hydrology]([https://github.com/simulated-user/text-analysis-tool](https://www.ceh.ac.uk)). I have more than 12 years of experience in the development of data-driven computer models that describe biogeochemical processes in terrestrial/agricultural ecosystems. 
+Hi there! I am a research scientist at the [UK Centre for Ecology and Hydrology]([https://www.ceh.ac.uk]). I have more than 12 years of experience in the development of data-driven computer models that describe biogeochemical processes in terrestrial/agricultural ecosystems. Here's my [CV]([https://www.ceh.ac.uk])
 
 Main interests : 
 * Agro-ecosystems
