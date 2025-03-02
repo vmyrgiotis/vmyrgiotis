@@ -29,7 +29,7 @@ My main research interests are :
 
 **Model Data Fusion** 
 
-![My Image](https://github.com/vmyrgiotis/DALEC_Grass/blob/master/dalec_grass.gif)
+![My Image](https://github.com/vmyrgiotis/DALEC_Grass/blob/master/dalec_grass.gif,width="300" height="200")
 
 * **Description:** ... 
 
