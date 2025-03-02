@@ -25,7 +25,7 @@ My main research interests are :
 * Earth observation and remote sensing 
 
 
-## Work
+## Portfolio
 
 <details>
 <summary> Grassland Modelling </summary>
