@@ -29,10 +29,9 @@ My main research interests are :
 
 **Model Data Fusion** 
 
-<img src="[image_url_here.jpg](https://github.com/vmyrgiotis/DALEC_Grass/blob/master/dalec_grass.gif)" width="300" height="200">
-* **Description:** ... 
+![My Image](https://github.com/vmyrgiotis/DALEC_Grass/blob/master/dalec_grass.gif)
 
-* [DALEC-Grass](https://github.com/vmyrgiotis/DALEC_Grass)
+* **Description:** Text text text ... [DALEC-Grass](https://github.com/vmyrgiotis/DALEC_Grass)
 
 **Earth Observation** 
 
