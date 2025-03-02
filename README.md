@@ -24,22 +24,6 @@ Main interests :
 * Ecosystem modelling
 * Earth observation and remote sensing 
 
-<div style="display: flex;">
-  <div style="flex: 1; margin-right: 20px;">
-    <ul>
-      <li>Agro-ecosystems</li>
-      <li>Soil science and ecosystem biogeochemistry)</li>
-      <li>Computational data science</li>
-    </ul>
-  </div>
-  <div style="flex: 1;">
-    <ul>
-      <li>Ecosystem modelling</li>
-      <li>Earth observation and remote sensing </li>
-    </ul>
-  </div>
-</div>
-
 
 ## Portfolio
 
