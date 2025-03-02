@@ -35,7 +35,7 @@ DALEC-Grass is a simple process-based model that simulates carbon (C) dynamics i
 
 **Earth Observation** 
 
-* **Description:** ... 
+<img src="https://github.com/vmyrgiotis/vmyrgiotis/mdf_dg.png" height="600px" width="800px">
 
 **Soil Carbon Modelling** 
 
