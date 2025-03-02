@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ## About
 
-Hello there! My name is Vasilis and I am a research scientist at the [UK Centre for Ecology and Hydrology](https://www.ceh.ac.uk). I have more than 12 years of experience in the development of data-driven computer models that describe biogeochemical processes in terrestrial ecosystems at scales that range from local to national. I also have a keen interest in ecosystem sensing technologies. You can find my CV [here](cv.md) and see examples of past and ongoing work below. 
+Hello there! My name is Vasilis and I am a research scientist at the [UK Centre for Ecology and Hydrology](https://www.ceh.ac.uk). I have more than 12 years of experience in the development of data-driven computer models that describe biogeochemical processes in terrestrial ecosystems at scales that range from local to national. I also have a keen interest in ecosystem sensing technologies. You can find my CV [here](cv.md) and see examples of past and ongoing work below.
 
 My main research interests are :
 * Agro-ecosystems
@@ -34,7 +34,7 @@ My main research interests are :
 
 <img src="https://github.com/vmyrgiotis/DALEC_Grass/blob/master/dalec_grass.gif" height="400px" width="500px">
 
-DALEC-Grass is a simple process-based model that simulates carbon (C) dynamics in temperate grassland ecosystems using 5 C pools: leaf, stem, roots, litter and soil organic C. C is assimilated into biomass via photosynthesis and allocated to the 5 C pools directly (biomass) or indirectly (soil). Vegetation removals can occur due to grazing or cutting. When grazing occurs the model quantifies how much of the grazed biomass-C returns to the soil as manure, is emitted a CO2 and CH4 and how much is stored in animal body. [DALEC-Grass](https://github.com/vmyrgiotis/DALEC_Grass) is written in fortran and can be compiled into a shared object for use in python. 
+DALEC-Grass is a simple process-based model that simulates carbon (C) dynamics in temperate grassland ecosystems using 5 C pools: leaf, stem, roots, litter and soil organic C. C is assimilated into biomass via photosynthesis and allocated to the 5 C pools directly (biomass) or indirectly (soil). Vegetation removals can occur due to grazing or cutting. When grazing occurs the model quantifies how much of the grazed biomass-C returns to the soil as manure, is emitted a CO2 and CH4 and how much is stored in animal body. [DALEC-Grass](https://github.com/vmyrgiotis/DALEC_Grass) is written in fortran and can be compiled into a shared object for use in python. DALEC-Grass belongs to the DALEC (Data Assimilation Linked Ecosystem Carbon) family of models developed and maintained by the [Global Change Ecology Lab](https://github.com/GCEL) of the University of Edinburgh (UK). 
 
 </details>
 
