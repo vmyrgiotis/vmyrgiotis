@@ -15,11 +15,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## (1) About Me
+## About Me
 
-i am research scientist working at the [UK Centre for Ecology and Hydrology]([https://github.com/simulated-user/text-analysis-tool](https://www.ceh.ac.uk)) 
+I am research scientist at the [UK Centre for Ecology and Hydrology]([https://github.com/simulated-user/text-analysis-tool](https://www.ceh.ac.uk)). I study how terrestrial/agricultural ecosystems function, focusing at scales from local to national, to provide actionable information. I have more than 12 years of experience in earth observation and the development of data-driven computer models that describe biogeochemical processes in ecosystems. 
 
-My main interests are : 
+Main interests : 
 * Agro-ecosystems
 * Soil science and ecosystem biogeochemistry
 * Computational data science
@@ -27,7 +27,7 @@ My main interests are :
 * Earth observation and remote sensing 
 
 
-## (2) Portfolio
+## Portfolio
 
 
 **Project 1: Text Summarization and Analysis Tool**
