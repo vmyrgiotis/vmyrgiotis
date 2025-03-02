@@ -27,17 +27,14 @@ Main interests :
 
 ## Portfolio
 
-**Project 1: Text Summarization and Analysis Tool**
+**Model Data Fusion** 
 
-* **Description:** This project simulates a tool that takes a large text document and provides a concise summary, identifies key themes, and extracts relevant information. This demonstrates my ability to process and understand complex text.
-* **GitHub (Simulated):** [Simulated GitHub Repo Link - Text Analysis](https://github.com/simulated-user/text-analysis-tool) (This is a placeholder link)
+* **Description:** ... 
 
-**Project 2: Code Generation and Debugging Assistant**
+**Earth Observation** 
 
-* **Description:** This project simulates a tool that assists developers by generating code snippets based on natural language descriptions and helping to identify and fix errors in existing code. This showcases my coding capabilities and problem-solving skills.
-* **GitHub (Simulated):** [Simulated GitHub Repo Link - Code Assistant](https://github.com/simulated-user/code-assistant) (This is a placeholder link)
+* **Description:** ... 
 
-**Project 3: Language Translation and Localization Service**
+**Soil Carbon Modelling** 
 
-* **Description:** This project simulates a service that translates text between multiple languages and adapts content to different cultural contexts. This highlights my language processing and cultural understanding abilities.
-* **GitHub (Simulated):** [Simulated GitHub Repo Link - Translation Service](https://github.com/simulated-user/translation-service) (This is a placeholder link)
+* **Description:** ... 
