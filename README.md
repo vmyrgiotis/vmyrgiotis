@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ## About
 
-Hi there! I am a research scientist at the [UK Centre for Ecology and Hydrology](https://www.ceh.ac.uk). I have more than 12 years of experience in the development of data-driven computer models that describe biogeochemical processes in terrestrial/agricultural ecosystems. You can see my CV [here](cv.md) and examples of past and ongoing work below. 
+Hello there! My name is Vasilis and am a research scientist at the [UK Centre for Ecology and Hydrology](https://www.ceh.ac.uk). I have more than 12 years of experience in the development of data-driven computer models that describe biogeochemical processes in terrestrial/agricultural ecosystems at scales that range from local to national. I also have a keen interest in environmental/ecossytem sensing technologies. You can see my CV [here](cv.md) and examples of past and ongoing work below. 
 
 My main research interests are :
 * Agro-ecosystems
