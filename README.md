@@ -42,4 +42,8 @@ Data fusion is the process of integrating multiple data sources to produce more 
 
 ### Soil Carbon Modelling 
 
+<img src="soilC" height="400px" width="700px">
+
+Soil is that part of any terestrisl ecosystems which plays a key role for the health and functioning of the ecosystem. Soil is also a critical carbon pool at global scale whose size exceeds the carbon stored in the atmosphere and vegetation combined. There exist tens of soil carbon models either as standalone models or modules of more comprehensive ecosystem scale models. This [repository](https://github.com/vmyrgiotis/soilCmodelling) includes python code and notebooks for implementing some widely-used soil carbon models available. 
+   
 
