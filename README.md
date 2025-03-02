@@ -33,7 +33,7 @@ My main research interests are :
 
 * **Description:** ... 
 
-* [DALEC-Grass]([https://github.com/yourusername/yourrepo](https://github.com/vmyrgiotis/DALEC_Grass))
+* [DALEC-Grass](https://github.com/vmyrgiotis/DALEC_Grass)
 
 **Earth Observation** 
 
