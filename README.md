@@ -27,7 +27,7 @@ My main research interests are :
 
 ## Work
 
-**Model Data Fusion** 
+### **Model Data Fusion** 
 
 <img src="https://github.com/vmyrgiotis/DALEC_Grass/blob/master/dalec_grass.gif" height="300px" width="500px">
 
