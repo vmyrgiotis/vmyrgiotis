@@ -24,19 +24,15 @@
 
 You can find an up to date list of publications I have contributed to [here](https://scholar.google.com/citations?user=7BUpIaMAAAAJ&hl=en&oi=ao).
 
-## Talks
+## Presentations
 
-*(Replace this with actual talk list if available)*
-
-* Talk 1
-* Talk 2
+* AGU
+* iEMSs  
 
 ## Teaching
 
-*(Replace this with actual teaching list if available)*
-
-* Teaching 1
-* Teaching 2
+* Uncertainty is ecosystem modelling 
+* Fundamentals of soil modelling 
 
 ## Affiliations
 
