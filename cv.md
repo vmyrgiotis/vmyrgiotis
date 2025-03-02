@@ -2,9 +2,9 @@
 
 ## Education
 
-* Ph.D. in Atmospheric & Environmental Sciences, University of Edinburgh, 2017
-* M.S. in Environmental Protection & Management, University of Edinburgh, 2011
-* M.Eng. in Mining & Metallurgical Engineering with Major in Environmental Engineering, National Technical University of Athens, 2009
+* Ph.D. in Atmospheric & Environmental Sciences, [University of Edinburgh](https://geosciences.ed.ac.uk), 2017
+* M.S. in Environmental Protection & Management,[University of Edinburgh](https://geosciences.ed.ac.uk), 2011
+* M.Eng. in Mining & Metallurgical Engineering with Major in Environmental Engineering, [National Technical University of Athens](http://eng.metal.ntua.gr), 2009
 
 ## Experience
 
