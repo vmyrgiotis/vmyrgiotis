@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## About
+# About
 
 Hi there! I am a research scientist at the [UK Centre for Ecology and Hydrology](https://www.ceh.ac.uk). I have more than 12 years of experience in the development of data-driven computer models that describe biogeochemical processes in terrestrial/agricultural ecosystems. You can see my CV [here](cv.md) and some examples of my work below. 
 
@@ -25,7 +25,7 @@ My main research interests are :
 * Earth observation and remote sensing 
 
 
-## Work
+# Work
 
 **Model Data Fusion** 
 
