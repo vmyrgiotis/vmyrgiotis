@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **vmyrgiotis/vmyrgiotis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,9 +13,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## About Me
+## About
 
-I am a research scientist at the [UK Centre for Ecology and Hydrology]([https://github.com/simulated-user/text-analysis-tool](https://www.ceh.ac.uk)). I have more than 12 years of experience in the development of data-driven computer models that describe biogeochemical processes in terrestrial/agricultural ecosystems. 
+Hi there! I am a research scientist at the [UK Centre for Ecology and Hydrology]([https://github.com/simulated-user/text-analysis-tool](https://www.ceh.ac.uk)). I have more than 12 years of experience in the development of data-driven computer models that describe biogeochemical processes in terrestrial/agricultural ecosystems. 
 
 Main interests : 
 * Agro-ecosystems
