@@ -6,7 +6,7 @@
 * M.S. in Environmental Protection & Management, University of Edinburgh, 2011
 * M.Eng. in Mining & Metallurgical Engineering with Major in Environmental Engineering, National Technical University of Athens, 2009
 
-## Work experience
+## Experience
 
 * 2022 - today : Environmental Modeller, UK Centre for Ecology and Hydrology
 * 2017 - 2022 : Postdoctoral Research Associate, University of Edinburgh
