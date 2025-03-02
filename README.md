@@ -29,10 +29,9 @@ My main research interests are :
 
 ### Model Data Fusion
 
-<img src="https://github.com/vmyrgiotis/DALEC_Grass/blob/master/dalec_grass.gif" height="300px" width="500px">
+<img src="https://github.com/vmyrgiotis/DALEC_Grass/blob/master/dalec_grass.gif" height="400px" width="500px">
 
-
-DALEC-Grass is a simple process-based model that simulates the dynamics of 5 carbon (C) pools in a grassland ecosystem : leaf, stem, roots, litter and SOC. C is allocated to the 5 C pools via NPP allocation (A) and litter production (L). Vegetation removals (VR) can occur due to grazing or cutting. DALEC-Grass determines whether a vegetation removal is caused by grazing, cutting or neither. When cutting is simulated (VRc>0) cut biomass (Bc) is removed from the ecosystem. When grazing is simulated (VRg>0) 32% of grazed biomass (Bg) is converted to manure, 54% of grazed biomass (Bg) is converted to animal respiration (aCO2) and 4% of grazed biomass (Bg) is converted to methane (aCH4). Dotted lines show outward fluxes of C. Solid lines show internal and inward fluxes of C
+DALEC-Grass is a simple process-based model that simulates carbon (C) dynamics in a grassland ecosystem using 5 C poools: leaf, stem, roots, litter and soil organic C. C is allocated to the 5 C pools via NPP allocation (A) and litter production (L). Vegetation removals (VR) can occur due to grazing or cutting. When grazing occurs the model quantifies how much of the grazed biomass-C returns to the soil as manure, is emitted a CO2 and CH4 and how much is stored in  animal body.
  
 * **Description:** Text text text ... [DALEC-Grass](https://github.com/vmyrgiotis/DALEC_Grass)
 
