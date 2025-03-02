@@ -20,6 +20,18 @@
 * Scientific writing
 * Project management
 
+
+<ul>
+    <li> 1 </li>
+    <li> 2 </li>
+</ul>
+
+
+
+<ul>
+    <li> a </li>
+    <li> b </li>
+</ul>
 ## Publications
 
 You can find an up to date list of publications I have contributed to [here](https://scholar.google.com/citations?user=7BUpIaMAAAAJ&hl=en&oi=ao).
