@@ -25,7 +25,9 @@
 | Scientific programming | Earth observation data processing |
 |---|---|
 | Computational modelling | Scientific writing |
+|---|---|
 | Big data handling | Project management |
+|---|---|
 
 ## Publications
 
