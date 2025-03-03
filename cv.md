@@ -42,3 +42,8 @@ You can find an up to date list of publications I have contributed to [here](htt
 * [European Geosciences Union](https://www.egu.eu)
 * [International Environmental Modelling and Software Society](https://iemss.org)
 * [Technical Chamber of Greece](https://web.tee.gr/en/)
+
+## Languages
+* English (fluent)
+* Greek (native)
+* French (proficient)
