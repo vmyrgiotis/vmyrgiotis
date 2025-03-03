@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 ## About
 
-Hello there! My name is Vasilis and I am a research scientist at the [UK Centre for Ecology and Hydrology](https://www.ceh.ac.uk). My work is aimed at quantifying and monitoring ecosystem functioning at local to national scales and at producing relevant actionable information. I also have a keen interest in ecosystem sensing technologies. I have more than 12 years of experience in the development of data-driven computer models that describe biogeochemical processes in terrestrial ecosystems. You can find my CV [here](cv.md) and see examples of past and ongoing work below.
+Hello there! My name is Vasilis and I am a research scientist at the [UK Centre for Ecology and Hydrology](https://www.ceh.ac.uk). My work is aimed at quantifying and monitoring ecosystem functioning at local-to-national scales and at producing relevant actionable information. I have more than 12 years of experience in the development of data-driven computer models that describe biogeochemical processes in terrestrial ecosystems. I also have a keen interest in ecosystem sensing technologies. You can find my CV [here](cv.md) and see examples of past and ongoing work below.
 
 My main research interests are :
 * Agro-ecosystems
