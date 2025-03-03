@@ -27,7 +27,6 @@
 | Computational modelling | Scientific writing |
 |---|---|
 | Big data handling | Project management |
-|---|---|
 
 ## Publications
 
