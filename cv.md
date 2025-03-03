@@ -13,20 +13,12 @@
 
 ## Skills
 
-<!--
 * Scientific programming
 * Computational modelling
 * Big data handling
 * Earth observation data processing
 * Scientific writing
 * Project management
--->
-
-| <!-- -->    | <!-- --> |
-|-------------|-------------|
-| Scientific programming | Earth observation data processing |
-| Computational modelling | Scientific writing |
-| Big data handling | Project management | 
 
 ## Publications
 
