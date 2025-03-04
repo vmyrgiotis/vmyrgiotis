@@ -11,7 +11,7 @@
 * 2022 - today : Environmental Modeller at the UK Centre for Ecology and Hydrology
 * 2017 - 2022 : Postdoctoral Research Associate at the University of Edinburgh
 
-## Skills
+## Key Skills
 
 * Scientific programming
 * Computational modelling
