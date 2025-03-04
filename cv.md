@@ -2,14 +2,14 @@
 
 ## Education
 
-* 2017 - Ph.D. in Atmospheric & Environmental Sciences | [University of Edinburgh](https://geosciences.ed.ac.uk)
-* 2011 - M.S. in Environmental Protection & Management | [University of Edinburgh](https://geosciences.ed.ac.uk)
-* 2009 - M.Eng. in Mining & Metallurgical Engineering with Major in Environmental Engineering | [National Technical University of Athens](http://eng.metal.ntua.gr)
+* 2017 - Ph.D. in Atmospheric & Environmental Sciences at the [University of Edinburgh](https://geosciences.ed.ac.uk)
+* 2011 - M.S. in Environmental Protection & Management at the [University of Edinburgh](https://geosciences.ed.ac.uk)
+* 2009 - M.Eng. in Mining & Metallurgical Engineering with Major in Environmental Engineering at the [National Technical University of Athens](http://eng.metal.ntua.gr)
 
 ## Experience
 
-* 2022 - today : Environmental Modeller, UK Centre for Ecology and Hydrology
-* 2017 - 2022 : Postdoctoral Research Associate, University of Edinburgh
+* 2022 - today : Environmental Modeller at the UK Centre for Ecology and Hydrology
+* 2017 - 2022 : Postdoctoral Research Associate at the University of Edinburgh
 
 ## Skills
 
