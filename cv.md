@@ -31,7 +31,7 @@ You can find an up to date list of publications I have contributed to [here](htt
 
 ## Teaching
 
-* Uncertainty is ecosystem modelling 
+* Uncertainty in ecosystem modelling 
 * Fundamentals of soil modelling
 
 ## Peer Reviewer 
