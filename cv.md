@@ -16,7 +16,7 @@
 * Scientific programming
 * Computational modelling
 * Big data handling
-* Earth observation data processing
+* Earth observation 
 * Scientific writing
 * Project management
 
