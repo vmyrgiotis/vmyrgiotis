@@ -24,10 +24,12 @@
 
 You can find an up to date list of publications I have contributed to [here](https://scholar.google.com/citations?user=7BUpIaMAAAAJ&hl=en&oi=ao).
 
-## Presentations
+<!--
+## Conference talks 
 
-* AGU
-* iEMSs  
+* 2020 AGU Fall Meeting 
+* 2016 8th International Congress on Environmental Modelling and Software
+-->
 
 ## Teaching & Supervision
 
