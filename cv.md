@@ -3,7 +3,7 @@
 ## Education
 
 * 2017 - Ph.D. in Atmospheric & Environmental Sciences at the [University of Edinburgh](https://geosciences.ed.ac.uk)
-* 2011 - M.S. in Environmental Protection & Management at the [University of Edinburgh](https://geosciences.ed.ac.uk)
+* 2011 - M.Sc. in Environmental Protection & Management at the [University of Edinburgh](https://geosciences.ed.ac.uk)
 * 2009 - M.Eng. in Mining & Metallurgical Engineering with Major in Environmental Engineering at the [National Technical University of Athens](http://eng.metal.ntua.gr)
 
 ## Experience
@@ -31,8 +31,8 @@ You can find an up to date list of publications I have contributed to [here](htt
 
 ## Teaching
 
-* Uncertainty in ecosystem modelling 
-* Fundamentals of soil modelling
+* Guest Lecture on Uncertainty in Ecosystem Modelling (MSc course module, University of Edinburgh)
+* Guest Lecture on Fundamentals of Soil Modelling  (MSc course module, University of Edinburgh)
 
 ## Peer Reviewer 
 
