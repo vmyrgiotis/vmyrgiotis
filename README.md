@@ -77,7 +77,7 @@ tba...
 
 <details>
 
-<summary> Earth Observation </summary>
+<summary> Soil Imaging </summary>
 
 ### Soil Imaging
 
