@@ -75,4 +75,17 @@ tba...
 
 </details>
 
+<details>
+
+<summary> Earth Observation </summary>
+
+### Soil Imaging
+
+<!-- 
+<img src="soilc.png" height="500px" width="600px"> 
+--> 
+
+tba... 
+
+</details>
 
