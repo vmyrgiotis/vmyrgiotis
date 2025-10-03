@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 I am a research scientist at the [UK Centre for Ecology and Hydrology](https://www.ceh.ac.uk). My work is aimed at quantifying and monitoring ecosystem functioning. I have more than 12 years of experience in the development and application of computational models that describe biogeochemical processes in terrestrial ecosystems. I also have a keen interest in ecosystem sensing technology. You can see my CV [here](cv.md) and some examples of my work below.
 
 Main research interests:
-* Agro-ecosystems
+* Agricultural ecosystems
 * Soil science and ecosystem biogeochemistry
 * Computational data science
 * Ecosystem modelling
