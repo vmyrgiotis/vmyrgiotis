@@ -87,10 +87,7 @@ tba...
 <img src="soilc.png" height="500px" width="600px"> 
 --> 
 
---> 
 <!--
 tba... 
 
 <!-- </details> -->
-
---> 
