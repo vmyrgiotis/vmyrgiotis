@@ -24,10 +24,10 @@ Main research interests:
 * Ecosystem modelling
 * Earth observation and remote sensing 
 
-
+<!--
 ## Portfolio
 
-<details>
+<details> 
 <summary> Grassland Modelling </summary>
   
 ### Grassland Modelling
@@ -87,5 +87,6 @@ tba...
 
 tba... 
 
-</details>
+<!-- </details> -->
 
+--> 
