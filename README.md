@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 
 I am a research scientist at the [UK Centre for Ecology and Hydrology](https://www.ceh.ac.uk). My work is focused on quantifying and monitoring ecosystem functioning. I develop and apply computational pipelines that integrate local field-scale observations from in situ sensors and satellite products with global gridded datasets (climate, soil, land use and related variables) and both process-based and data-driven (machine learning) models to quantify the biogeochemical dynamics of terrestrial ecosystems. I also have a keen interest in ecosystem sensing technology. 
 
+\n
+
 You can see my CV [here](cv.md) and some examples of my work below.
 
 Main research interests:
