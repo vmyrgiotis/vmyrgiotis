@@ -22,7 +22,8 @@ Main research interests:
 * Soil science and ecosystem biogeochemistry
 * Computational data science
 * Ecosystem modelling
-* Earth observation and remote sensing 
+* Earth observation
+* Spectral imaging and image analysis 
 
 <!--
 ## Portfolio
