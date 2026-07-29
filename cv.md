@@ -49,6 +49,7 @@ You can find an up to date list of publications I have contributed to [here](htt
 
 ## Affiliations
 
+* [UK Environmental Observation Network](https://ukeof.org.uk/) - Secretariat of the EO cal/val working group
 * [British Society of Soil Science](https://soils.org.uk)
 * [British Ecological Society](https://www.britishecologicalsociety.org)
 * [American Geophysical Union](https://www.agu.org)
