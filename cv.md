@@ -42,6 +42,8 @@ You can find an up to date list of publications I have contributed to [here](htt
 
 * Agricultural and Forest Meteorology 
 * Science of the Total Environment
+* Nature Food 
+* Ecological Modelling 
 * Ecological Informatics
 * Ecological Indicators
 
