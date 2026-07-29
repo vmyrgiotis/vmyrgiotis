@@ -35,8 +35,8 @@ You can find an up to date list of publications I have contributed to [here](htt
 
 * 2026-2030 : Co-supersion of a NERC ExaGEO DLA PhD Student (University of Glasgow)
 * 2020, 2022 : Supervised 2 MSc dissertation projects (University of Edinburgh)
-* 2016-2018 : Guest lecture on Soil Science Concepts and Applications (MSc course module, University of Edinburgh)
-* 2017 : Guest lecture on Introduction to Environmental Modelling (MSc course module, University of Edinburgh)
+* 2016-2018 : Guest lecture on Soil Science Concepts and Applications (MSc course module, University of Edinburgh - SRUC)
+* 2017 : Guest lecture on Introduction to Environmental Modelling (MSc course module, University of Edinburgh - SRUC)
 
 ## Peer Reviewer 
 
