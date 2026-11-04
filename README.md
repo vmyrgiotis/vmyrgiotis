@@ -20,7 +20,6 @@ I am a research scientist at the [UK Centre for Ecology and Hydrology](https://w
 You can see my CV [here](cv.md) and some examples of my work below. My main research interests include:
 * Agricultural ecosystems
 * Soil science 
-* Computational data science
 * Ecosystem modelling
 * Earth observation
 * Spectral imaging and image analysis 
