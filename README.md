@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 
 ## About Me
 
-I am a research scientist at the [UK Centre for Ecology and Hydrology](https://www.ceh.ac.uk). My work focuses on the quantification and monitoring of ecosystem functioning. I develop computational pipelines that combine field observations, sensor and satellite data, and global climate, soil, and land-use datasets with process-based and machine-learning models to assess terrestrial ecosystem biogeochemistry. I am also interested in ecosystem sensing technology.
+I am a research scientist at the [UK Centre for Ecology and Hydrology](https://www.ceh.ac.uk). I study how ecosystems work and how they are changing over time. I use information collected in the field, from sensors and satellites, and from global datasets on climate, soil, and land use. I combine these data with computer models to understand how land ecosystems cycle nutrients, carbon and water. I am also interested in developing and using new technologies to monitor ecosystems.
 
-You can see my CV [here](cv.md) and some examples of my work below. My main research interests include:
+You can view my CV [here](cv.md) and a few examples of my work below. My main research interests include:
 * Agricultural ecosystems
 * Soil science 
 * Ecosystem modelling
