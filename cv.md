@@ -22,7 +22,7 @@
 
 ## Publications
 
-You can find an up to date list of publications I have contributed to [here](https://scholar.google.com/citations?user=7BUpIaMAAAAJ&hl=en&oi=ao).
+You can find an up-to-date list of publications I have contributed to [here](https://scholar.google.com/citations?user=7BUpIaMAAAAJ&hl=en&oi=ao).
 
 <!--
 ## Conference talks 
